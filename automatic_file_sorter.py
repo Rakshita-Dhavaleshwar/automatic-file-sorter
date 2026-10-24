@@ -2,7 +2,7 @@
 import os
 import shutil
 
-path = r"C:/Users/Rakshita D/Downloads/new"
+path = r"C:/Users/Rakshita D/Downloads/new" #this is my folder directory
 
 folder_names = {
     ".txt": "txt files",
